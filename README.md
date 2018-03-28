@@ -26,9 +26,8 @@
  
 - **UI类组件**
 
-	- [ 
-	wepy-com-iviewer：基于wepy：一款Modal弹窗和Toast提示组件 ](https://github.com/wahao/wepy-com-iviewer)
-	wepy-weui-demo：WeUI在WePY中的使用示例，同一份代码可以运行在小程序上和Web上 ](https://github.com/wepyjs/wepy-weui-demo)
+	- [ wepy-com-iviewer：基于wepy：一款Modal弹窗和Toast提示组件 ](https://github.com/wahao/wepy-com-iviewer)
+	- [wepy-weui-demo：WeUI在WePY中的使用示例，同一份代码可以运行在小程序上和Web上 ](https://github.com/wepyjs/wepy-weui-demo)
 	- [ wepy-zanui-demo：基于zanui-weapp移植的一套wepy界面框架 ](https://github.com/brucx/wepy-zanui-demo)
 	- [ wepy-X-minui：蘑菇街minui小程序UI组件库wepy版 ](https://github.com/jimmyrogue/wepy-X-minui)
 	- [ wepy-com-toast：微信小程序toast组件 ](https://github.com/wepyjs/wepy-com-toast)
